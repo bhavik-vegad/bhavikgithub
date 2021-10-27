@@ -1,0 +1,9 @@
+hi there :w
+hood :q
+:q
+:w
+:x
+:x
+:i
+:x
+:o
